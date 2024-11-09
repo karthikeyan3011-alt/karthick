@@ -1,0 +1,94 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Super Shopping - Home</title> 
+  <link rel="stylesheet" href="styles.css"> 
+</head> 
+<body> 
+  <!-- Header --> 
+  <header> 
+    <div class="logo">Super Shopping</div> 
+    <nav> 
+      <ul> 
+        <li><a href="index.html">Home</a></li> 
+        <li><a href="shop.html">All themes</a></li> 
+        <li><a href="categories.html">Bundles</a></li> 
+        <li><a href="cart.html">Contect</a></li> 
+        <li><a href="contact.html">Hire Us</a></li> 
+      </ul> 
+    </nav> 
+  </header> 
+ 
+   
+  <section class="hero"> 
+    <h1>Welcome to Super Shopping</h1> 
+    <p>Your one-stop shop for all your favorite products</p> 
+    <button>Shop Now</button> 
+  </section> 
+ 
+  
+  <footer> 
+    <p>&copy; 2024 Super Shopping. All rights reserved.</p> 
+  </footer> 
+</body> 
+</html> 
+ 
+Shop.html(shop page) 
+ 
+ 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Super Shopping - Shop</title> 
+  <link rel="stylesheet" href="styles.css"> 
+</head> 
+<body> 
+  <header> 
+    <div class="logo">Super Shopping</div> 
+    <nav> 
+      <ul> 
+        <li><a href="index.html">Home</a></li> 
+        <li><a href="shop.html">All themes</a></li> 
+        <li><a href="categories.html">bundles</a></li> 
+        <li><a href="cart.html">Contect</a></li> 
+        <li><a href="contact.html">Hire Us</a></li> 
+      </ul> 
+    </nav> 
+  </header> 
+ 
+  <section class="content"> 
+    <h1>Shop Our Products</h1> 
+    <p>Discover the best products at unbeatable prices.</p> 
+    
+  </section> 
+ 
+  <footer> 
+    <p>&copy; 2024 Super Shopping. All rights reserved.</p> 
+  </footer> 
+</body> 
+</html> 
+ 
+Catagories.html(catagories Page) 
+ 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Super Shopping - Categories</title> 
+  <link rel="stylesheet" href="styles.css"> 
+</head> 
+<body> 
+  <header> 
+    <div class="logo">Super Shopping</div> 
+    <nav> 
+      <ul> 
+        <li><a href="index.html">Home</a></li> 
+        <li><a href="shop.html">All themes</a></li> 
+        <li><a href="categories.html">bundles</a></li> 
+        <li><a href="cart.html">Contect</a></li> 
+        <li><a href="contact.html">Hire Us</a></li>       </ul> 
